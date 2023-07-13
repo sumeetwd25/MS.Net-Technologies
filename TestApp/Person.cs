@@ -1,8 +1,12 @@
-namespace HR;
+namespace HR;   //Similar to package in java.
 
+//In C#, function name starts with upper case. 
 public class Person{
     //data members
+    //general members
     private string firstName;
+
+    //Classical syntax
     public void SetFirstName(string name){
         this.firstName=name;
     }
@@ -11,6 +15,8 @@ public class Person{
     }
 
     private string lastName;
+
+    //C# syntax
     //Property LastName VB syntax
     public string LastName{
         get{return this.lastName;}
@@ -24,11 +30,11 @@ public class Person{
     }
 
     private string contactNumber;
+
     private DateTime birthDate;
 
 //member functions
 //constructor overloading
-
 public Person(){
     this.firstName="Peter";
     this.lastName="Parker";
@@ -50,6 +56,7 @@ public Person(string fName, string lName, DateTime bDate, string email, string c
     //It will be automatically called by garbage collector.
 }
 
+//Similar to @Override in java.
 public override string ToString(){
     return this.firstName+" "+this.lastName;
 }

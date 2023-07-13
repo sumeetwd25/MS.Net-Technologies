@@ -1,7 +1,10 @@
-using HR;
-// namespace LMS;
+using HR;           //Similar to import in java. 
+// namespace LMS;   //LMS=Learm=ning Management System
 
 public class Student:Person{
+
+    //special members
+    //String or string, both are allowed
     private string course;
     private DateTime registrationDate;
     private int prn;

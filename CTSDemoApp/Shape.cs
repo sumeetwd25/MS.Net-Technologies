@@ -1,6 +1,9 @@
 namespace Drawing;
  public abstract class Shape{
+
+    //All the letters in const variable should be capital
     public const double PI=3.14;
+
     public string color;
     public int width;
 

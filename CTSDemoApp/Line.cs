@@ -1,12 +1,13 @@
 namespace Drawing;
 
-public sealed class Line:Shape{
+//If the method is sealed, it cannot be overrided.
+public sealed class Line:Shape{     //: is similar to extends in java
     public Point startPoint;
     public Point endPoint;
 
     //Constructor overloading
     //Static polymorphism
-    public Line():base(){
+    public Line():base(){           //base is similar to super() in java
         this.startPoint=new Point(1,4);
         this.endPoint=new Point(45,67);
     }

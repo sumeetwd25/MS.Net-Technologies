@@ -1,4 +1,4 @@
-namespace TeamBuilding{
+namespace TeamBuilding{     //Syntax in C#
     public class Follower{
         private string FirstName;
 
