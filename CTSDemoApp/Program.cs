@@ -1,6 +1,7 @@
 ﻿using Drawing;
 using TeamBuilding;
 
+//main method is encapsulated
 int width=5;
 string color="red";
 
