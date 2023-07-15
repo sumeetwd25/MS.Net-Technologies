@@ -2,14 +2,14 @@
 using ICC;
 using System.Collections.Generic;
 
- int[] marks = {76,70,55,65,89};
+/* int[] marks = {76,70,55,65,89};
 Array.Sort(marks);
 Array.Reverse(marks);
 
 foreach(int m in marks){
     Console.WriteLine(m);
 }
-/*
+
 string [] names = {"Goku", "Vegeta", "Android 17"};
 foreach(string n in names){
     Console.WriteLine(n);
@@ -35,7 +35,7 @@ for(int i=0; i<2; i++){
         Console.WriteLine(matrix[i,j]);
     }
 }
- 
+*/  
 //Jagged array
 //Array of arrays
 int [][] dacMarks = new int[3][];
@@ -44,11 +44,14 @@ dacMarks[1] = new int [3]{26,27,27};
 dacMarks[2] = new int []{67,79,86,35,75,45,56};
 
 for(int i=0; i<dacMarks.Length; i++){
-    for(int j=0; j<dacMarks[i].Length; j++){
-        Console.WriteLine(dacMarks[i][j]);
-    }
-}
 
+    System.Console.Write("Array[{0}]: ", i);
+    for(int j=0; j<dacMarks[i].Length; j++){
+        Console.Write(dacMarks[i][j]+" ");
+    }
+    Console.WriteLine();
+}
+/*
 List<Person> students = new List<Person>();
 students.Add(new Person{FirstName="Peter", LastName="Parker"});
 students.Add(new Person{FirstName="Tony", LastName="Stark"});
