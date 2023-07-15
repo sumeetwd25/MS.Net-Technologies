@@ -1,0 +1,15 @@
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\DemoAppCollection.csproj.AssemblyReference.cache
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\DemoAppCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\DemoAppCollection.AssemblyInfoInputs.cache
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\DemoAppCollection.AssemblyInfo.cs
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\DemoAppCollection.csproj.CoreCompileInputs.cache
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\bin\Debug\net7.0\DemoAppCollection.exe
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\bin\Debug\net7.0\DemoAppCollection.deps.json
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\bin\Debug\net7.0\DemoAppCollection.runtimeconfig.json
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\bin\Debug\net7.0\DemoAppCollection.dll
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\bin\Debug\net7.0\DemoAppCollection.pdb
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\DemoAppCollection.dll
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\refint\DemoAppCollection.dll
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\DemoAppCollection.pdb
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\DemoAppCollection.genruntimeconfig.cache
+C:\Users\iet01\Documents\DOTNET\Day 5\DemoCollection\DemoAppCollection\obj\Debug\net7.0\ref\DemoAppCollection.dll
