@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iet10\\Desktop\\Day 9\\DataAccess\\TestDB\\TestDB.csproj": {}
+    "C:\\Users\\iet10\\Desktop\\MS.NET\\Day 9\\DataAccess\\TestDB\\TestDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iet10\\Desktop\\Day 9\\DataAccess\\TestDB\\TestDB.csproj": {
+    "C:\\Users\\iet10\\Desktop\\MS.NET\\Day 9\\DataAccess\\TestDB\\TestDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iet10\\Desktop\\Day 9\\DataAccess\\TestDB\\TestDB.csproj",
+        "projectUniqueName": "C:\\Users\\iet10\\Desktop\\MS.NET\\Day 9\\DataAccess\\TestDB\\TestDB.csproj",
         "projectName": "TestDB",
-        "projectPath": "C:\\Users\\iet10\\Desktop\\Day 9\\DataAccess\\TestDB\\TestDB.csproj",
+        "projectPath": "C:\\Users\\iet10\\Desktop\\MS.NET\\Day 9\\DataAccess\\TestDB\\TestDB.csproj",
         "packagesPath": "C:\\Users\\iet10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iet10\\Desktop\\Day 9\\DataAccess\\TestDB\\obj\\",
+        "outputPath": "C:\\Users\\iet10\\Desktop\\MS.NET\\Day 9\\DataAccess\\TestDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iet10\\AppData\\Roaming\\NuGet\\NuGet.Config"
