@@ -1,0 +1,15 @@
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.deps.json
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.dll
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.pdb
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\bin\Debug\net7.0\Catalog.dll
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\bin\Debug\net7.0\Catalog.pdb
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.CopyComplete
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.dll
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\refint\ShoppingCart.dll
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.pdb
+C:\Users\iet01\Documents\DOTNET\Day 3\ECommerce\ShoppingCart\obj\Debug\net7.0\ref\ShoppingCart.dll
